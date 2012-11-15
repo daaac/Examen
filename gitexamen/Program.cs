@@ -9,7 +9,8 @@ namespace gitexamen
     {
         static void Main(string[] args)
         {
-            System.Console.Write("Hola mundo");
+
+            System.Console.Write("Eres modelo");
         }
     }
 }
